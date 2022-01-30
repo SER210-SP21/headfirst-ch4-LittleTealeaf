@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">demoChapter04</string>
-    <stirng name="start">Start</stirng>
+    <string name="start">Start</string>
     <string name="stop">Stop</string>
     <string name="reset">Reset</string>
 </resources>
